@@ -2,7 +2,7 @@
 
 Meu nome é Vitória Sales
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -12,4 +12,5 @@ Meu nome é Vitória Sales
 
 @salesv._
 
-![](https://tenor.com/dXZbCXq02tb.gif)
+![image](https://github.com/user-attachments/assets/badf8f8f-7a67-4758-b78d-58c0964d2233)
+
